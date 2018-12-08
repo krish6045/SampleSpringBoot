@@ -10,5 +10,6 @@ public class SampleSpringBootApplication {
 		SpringApplication.run(SampleSpringBootApplication.class, args);
 		System.out.println("This is added in feature1 branch");
 		System.out.println("This is added in Practice2 Branch");
+		System.out.println("This is latest commit in feature1 branch");
 	}
 }
