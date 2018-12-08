@@ -8,5 +8,6 @@ public class SampleSpringBootApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SampleSpringBootApplication.class, args);
+		System.out.println("This is added in Practice2 local Branch");
 	}
 }
